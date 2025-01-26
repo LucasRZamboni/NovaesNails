@@ -11,7 +11,7 @@
     "lint": "eslint .",
     "preview": "vite preview"
   },
-  "homepage": "https://github.com/LucasRZamboni/NovaesNails.git",
+  "homepage": "https://github.com/lucasrzamboni/NovaesNails.git",
   "dependencies": {
     "lucide-react": "^0.320.0",
     "react": "^18.2.0",
